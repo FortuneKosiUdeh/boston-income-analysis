@@ -1,0 +1,38 @@
+The State of Early Education and Care in Boston: Supply, Demand, Affordability, and Quality, is the first in what is planned as a recurrent landscape survey of early childhood, preschool and childcare programs in every neighborhood of Boston. It focuses on potential supply, demand and gaps in child-care seats (availability, quality and affordability). This report’s estimates set a baseline understanding to help focus and track investments and policy changes for early childhood in the city.
+
+This publication is a culmination of efforts by a diverse data committee representing providers, parents, funding agencies, policymakers, advocates, and researchers. The report includes data from several sources, such as American Community Survey, Massachusetts Department of Early Education and Care, Massachusetts Department of Elementary & Secondary Education, Boston Public Health Commission, City of Boston, among others. For detailed information on methodology, findings and recommendations, please access the full report here
+
+The first dataset contains all Census data used in the publication. Data is presented by neighborhoods:
+
+Population 0 – 5 years;
+Population 0 – 2 years;
+Population 3 – 5 years;
+Race/ethnicity for children 0 – 4 years (White, non-Hispanic; Black; Asian; Hispanic/Latinx);
+Family type (married couples, female householder, male householder);
+Poverty status;
+Family median income in the past 12 months;
+Average cost of care as a percentage of median family income (infant, preschool);
+Share of families that cannot afford care (infant, preschool)
+The Boston Planning & Development Agency Research Division analyzed 2013-2017 American Community Survey data to estimate numbers by ZIP-Code. The Boston Opportunity Agenda combined that data by the approximate neighborhoods and estimated cost of care and affordability.
+
+ADDITIONAL NOTES:
+
+Record Type: Each record represents a ZIP-Code defined neighborhood. See list below for detailed information on Boston ZIP-Codes used to create each one of the 15 neighborhoods.
+Data Quality: Numbers presented here came from 2013-2017 American Community Survey data. Therefore, these are ESTIMATES and have margin of errors. The smaller the geographical unit, the greater the margin of error. The Boston Planning & Development Agency analyzed the data to estimate numbers by ZIP-Code.
+Race/Ethnicity: Non-White Hispanics may be double counted due to data limitations.
+Cost of Care: The average cost of care as a percentage of median family income was computed assuming the annual average cost of infant care was $19,877 and the average cost of preschool care was $ 13,771 (Childcare Aware of America, 2019). For each neighborhood we estimated the impact of child care (infant and preschool) on its median annual family income.
+Affordability: The Department of Health and Human Services (DHHS) sets a standard regarding the affordability of child care, where the annual cost of child care should not exceed 10 percent of household annual income. Using this 10% threshold, we estimated that to afford market rate infant care, a family’s annual income would have to be at least $198,770. The census income bracket closest to this income was a family income of $150,000– 199,999. To afford preschool care, a family's annual income should be at least $137,710. Thus, the census income bracket that encompass this income is $125,000 - 149,999. For both infant and preschool care, we underestimated the number of families that can afford care.
+RELEASED	2020-06-05
+MODIFIED	2020-06-05
+PROVIDER	Mayor's Office of Women's Advancement
+PUBLISHER	City of Boston
+CLASSIFICATION	Public Record
+OPEN	Yes
+TEMPORAL FROM	2013-01-01
+TEMPORAL TO	2017-12-31
+TEMPORAL NOTES	
+THEME	Education
+LOCATION	Boston (all)
+CONTACT POINT	Mayor's Office of Women's Advancement
+CONTACT POINT EMAIL	fernanda.campbell@boston.gov
+LICENSE	Open Data Commons Public Domain Dedication and License (PDDL)
